@@ -1,5 +1,8 @@
 ### bio
 
-**name:** Paul Woods
+**Name:** Paul Woods
 
-**color:** Blue
+**Color:** Blue
+
+**Current City:** Plano, Texas
+
