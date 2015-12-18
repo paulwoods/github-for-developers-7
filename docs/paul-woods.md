@@ -1,2 +1,5 @@
 ### bio
-- Paul Woods
+
+**name:** Paul Woods
+
+**color:** Blue
